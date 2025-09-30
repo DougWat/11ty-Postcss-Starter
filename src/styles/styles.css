@@ -1,0 +1,7 @@
+@import './partials/reset.css';
+@import './partials/vars.css';
+
+@import './partials/typography.css';
+@import './partials/structure.css';
+
+@import './partials/typography-page.css';
